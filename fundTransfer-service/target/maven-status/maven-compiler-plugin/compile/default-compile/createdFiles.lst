@@ -1,0 +1,10 @@
+com\java\nisum\ps\api\service\SequenceGeneratorService.class
+com\java\nisum\ps\api\FundTransferServiceApplication.class
+com\java\nisum\ps\api\mapper\FundTransferMapper.class
+com\java\nisum\ps\api\entity\DbSequence.class
+com\java\nisum\ps\api\entity\FundTransfer.class
+com\java\nisum\ps\api\service\FundTransferServiceImpl.class
+com\java\nisum\ps\api\service\IFundTransferService.class
+com\java\nisum\ps\api\model\FundTransferDto.class
+com\java\nisum\ps\api\controller\FundTransferController.class
+com\java\nisum\ps\api\repository\FundTransferRepository.class

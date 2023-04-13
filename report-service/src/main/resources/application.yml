@@ -1,0 +1,12 @@
+server:
+  port: 9199
+spring:
+  zipkin:
+    base-url: http://localhost:9411/
+  h2:
+    console:
+      enabled: true
+  application:
+    name: report-service
+logging:
+  file: C:/Users/Basant.Hota/Desktop/oms.log
